@@ -1,0 +1,18 @@
+Git Commands:
+
+To clone a repository:
+$ git clone <URL>
+$ ls 
+$ git add . - add all new files to git
+$ git diff
+$ git commit -m "<commit-message>" 
+$ git push
+
+Linux commands:
+$ ls - list files in folder
+$ cd - change a directory/folder
+$ rm -rf <file-name> - remove a file/folder
+$ rm -rf * - remove all
+$ pwd - print working directory (show my current folder path)
+
+
